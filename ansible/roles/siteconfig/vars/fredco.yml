@@ -35,6 +35,11 @@ cage_names:
       region: us-east-1
       owner: bill
 
+    rsprivatecage:
+      account: main
+      region: us-east-1
+      owner: bill
+
 
 aws_accounts:
 
