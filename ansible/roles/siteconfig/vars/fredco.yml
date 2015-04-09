@@ -35,11 +35,6 @@ cage_names:
       region: us-east-1
       owner: bill
 
-    RS-cage:
-      account: main
-      region: us-east-1
-      owner: bill
-  
 
 aws_accounts:
 
