@@ -63,3 +63,22 @@ aws_accounts:
         
     
   
+  test:
+
+    account_number: 005553492865
+    bootstrap_region: us-east-1
+
+    map_region_plus_redundant_zone_number_to_vpc_valid_az:
+    
+      us-east-1:
+        
+          AZ1: us-east-1a
+        
+          AZ2: us-east-1b
+        
+          AZ3: us-east-1d
+        
+          AZ4: us-east-1e
+        
+    
+  
